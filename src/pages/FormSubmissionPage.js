@@ -711,8 +711,8 @@ const validateStep = (step) => {
                   </thead>
                   <tbody className="bg-white divide-y divide-gray-200">
                     {[
-                                          { bank: 'Providus Bank', account: 'The Initiates Plc Rights Proceeds Account', number: '1308407124' },
-                      { bank: 'Taj Bank', account: 'The Initiates Plc Rights Proceeds Account', number: '0013161672' }
+                                          { bank: 'Providus Bank', account: 'Lasaco Assurance Plc Rights Proceeds Account', number: '1308407124' },
+                      { bank: 'Taj Bank', account: 'Lasaco Assurance Plc Rights Proceeds Account', number: '0013161672' }
                     ].map((item, index) => (
                       <tr key={index}>
                         <td className="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-700">{item.bank}</td>
@@ -727,8 +727,8 @@ const validateStep = (step) => {
               {/* Mobile View */}
               <div className="md:hidden space-y-3">
                 {[
-                { bank: 'Providus Bank', account: 'The Initiates Plc Rights Proceeds Account', number: '1308407124' },
-                      { bank: 'Taj Bank', account: 'The Initiates Plc Rights Proceeds Account', number: '0013161672' }
+                { bank: 'Providus Bank', account: 'Lasaco Assurance Plc Rights Proceeds Account', number: '1308407124' },
+                      { bank: 'Taj Bank', account: 'Lasaco Assurance Plc Rights Proceeds Account', number: '0013161672' }
                 ].map((item, index) => (
                   <div key={index} className="bg-white p-3 rounded-lg shadow-xs">
                     <div className="mb-2">
@@ -811,7 +811,7 @@ const validateStep = (step) => {
         <h3 className="font-semibold text-gray-900 text-sm uppercase">On Behalf Of</h3>
         <img
           src="https://res.cloudinary.com/apelng/image/upload/v1761578596/tip_wjcxdt.png"
-          alt="The Initiates Plc"
+          alt="Lasaco Assurance Plc"
           className="mx-auto h-10 object-contain mt-1"
         />
         <p className="text-xs text-gray-600 mt-1">RC: 266755</p>
@@ -819,7 +819,7 @@ const validateStep = (step) => {
 
       {/* Rights Issue Text */}
       <div className="bg-gray-50 border border-gray-200 rounded-lg max-w-xl mx-auto px-4 py-4 shadow-sm">
-        <h4 className="font-semibold text-gray-900 text-base">The Initiates Plc</h4>
+        <h4 className="font-semibold text-gray-900 text-base">Lasaco Assurance Plc</h4>
         <p className="text-xs text-gray-700 leading-relaxed mt-2">
           Rights Issue of <strong>177,996,310 Ordinary Shares</strong> of 50 Kobo Each at 
           <strong> ₦7.00 Per Share</strong> on the basis of 
@@ -852,12 +852,12 @@ const validateStep = (step) => {
                   <tbody className="divide-y divide-gray-200">
                    
                     <tr className="hover:bg-gray-50">
-                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">The Initiates Plc Rights Proceeds Account</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Lasaco Assurance Plc Rights Proceeds Account</td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">Providus Bank Limited</td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm font-mono text-gray-900">1308407124</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
-                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">The Initiates Plc Rights Proceeds Account</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Lasaco Assurance Plc Rights Proceeds Account</td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">TAJ Bank Limited</td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm font-mono text-gray-900">0013161672</td>
                     </tr>
