@@ -210,7 +210,7 @@ const HomePage = () => {
                     <div>
                       <h4 className="font-semibold text-green-800 mb-2">SELLER/EXISTING SHAREHOLDER:</h4>
                       <ol className="list-decimal list-inside space-y-1 ml-2">
-                        <li>You can Download the Rights Circular on our website using this link <a href="https://tip.apel.com.ng" className="text-green-600 hover:underline" target="_blank" rel="noopener noreferrer">https://tip.apel.com.ng</a></li>
+                        <li>You can Download the Rights Circular on our website using this link <a href="https://lasaco.apel.com.ng" className="text-green-600 hover:underline" target="_blank" rel="noopener noreferrer">https://tip.apel.com.ng</a></li>
                        <li>Endorse the Rights Circular stating the units accepted and the units renounced.</li>
   <li>Download the Branded Lasaco Assurance PLC Rights Demat/Migration form from our website.</li>
   <li>Endorse the Dematerialization/Migration form stating units to be migrated/traded.</li>

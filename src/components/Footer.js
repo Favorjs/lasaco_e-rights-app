@@ -16,13 +16,13 @@ const Footer = () => {
             </Link>
           </div>
           <div className="text-sm text-gray-300">
-            <span className="font-semibold">THE INITIATES PLC</span>
+            <span className="font-semibold">LASACO ASSURANCE PLC</span>
           </div>
         </div>
         
         {/* Copyright */}
         <div className="border-t border-gray-700 pt-4">
-          <p className="text-center text-sm text-gray-400">
+          <p className="text-center text-smC text-gray-400">
             2025 All Rights Reserved. APEL CAPITAL REGISTRARS
             <br />
             APEL is registered and regulated by the Securities and Exchange Commission, Nigeria.
