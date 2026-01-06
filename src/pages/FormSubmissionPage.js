@@ -788,15 +788,15 @@ const validateStep = (step) => {
       <div>
         <h3 className="font-semibold text-gray-900 text-sm uppercase">Lead Issuing House</h3>
         <img
-          src="https://res.cloudinary.com/apelng/image/upload/v1761578597/anchoria_hnhsy5.png"
-          alt="Anchoria Advisory Services"
+          src="https://res.cloudinary.com/apelng/image/upload/v1767701279/meristem_oxedsq.jpg"
+          alt="Meristem Securities Limited"
           className="mx-auto h-10 object-contain mt-1"
         />
         <p className="text-xs text-gray-600 mt-1">RC: 1517636</p>
       </div>
 
       {/* Joint Issuing House */}
-      <div>
+      {/* <div>
         <h3 className="font-semibold text-gray-900 text-sm uppercase">Joint Issuing House</h3>
         <img
           src="https://res.cloudinary.com/apelng/image/upload/v1761578597/fundvine_nvexlt.png"
@@ -804,13 +804,13 @@ const validateStep = (step) => {
           className="mx-auto h-10 object-contain mt-1"
         />
         <p className="text-xs text-gray-600 mt-1">RC: 1282258</p>
-      </div>
+      </div> */}
 
       {/* On Behalf Of */}
       <div>
         <h3 className="font-semibold text-gray-900 text-sm uppercase">On Behalf Of</h3>
         <img
-          src="https://res.cloudinary.com/apelng/image/upload/v1761578596/tip_wjcxdt.png"
+          src="https://res.cloudinary.com/apelng/image/upload/v1767701424/lasacopng_cx9rz2.png"
           alt="Lasaco Assurance Plc"
           className="mx-auto h-10 object-contain mt-1"
         />
