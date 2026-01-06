@@ -792,7 +792,7 @@ const validateStep = (step) => {
           alt="Meristem Securities Limited"
           className="mx-auto h-10 object-contain mt-1"
         />
-        <p className="text-xs text-gray-600 mt-1">RC: 1517636</p>
+        <p className="text-xs text-gray-600 mt-1">RC: 610498</p>
       </div>
 
       {/* Joint Issuing House */}
@@ -814,7 +814,7 @@ const validateStep = (step) => {
           alt="Lasaco Assurance Plc"
           className="mx-auto h-10 object-contain mt-1"
         />
-        <p className="text-xs text-gray-600 mt-1">RC: 266755</p>
+        <p className="text-xs text-gray-600 mt-1">RC: 31126</p>
       </div>
 
       {/* Rights Issue Text */}
